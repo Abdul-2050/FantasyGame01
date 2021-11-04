@@ -1,0 +1,2 @@
+public class World2 {
+}
